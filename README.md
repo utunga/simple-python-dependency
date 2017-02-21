@@ -1,2 +1,2 @@
 # simple-python-dependency
-Test of having python dependency at github
+Simple example of python dependency / setup.py egg at github
